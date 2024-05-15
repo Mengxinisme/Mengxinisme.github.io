@@ -6,7 +6,7 @@ location: beijing
 pulished: ture
 excerpt_separator: "##"
 ---
-1. 进入``我的 Microsoft 帐户`
+1. 进入`我的 Microsoft 帐户`
 2. 左侧选中`设备`
 3. 找到被bitlocker锁住的设备
 4. 选中`查看详细信息`
