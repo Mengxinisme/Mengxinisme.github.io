@@ -3,7 +3,7 @@ layout: post_layout
 title: ubuntu apt-get nginx
 time: 2024年01月24日 星期三
 location: beijing
-pulished: ture
+pulished: true
 excerpt_separator: "##"
 ---
 #### 注：以下命令都是在root用户下使用
