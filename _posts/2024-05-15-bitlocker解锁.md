@@ -1,8 +1,8 @@
 ---
 layout: post_layout
-title: ssh 随笔
-time: 2024年01月
-location: beijing
+title: bitlocker解锁
+time: 2024年05月15日 星期三
+location: cq
 pulished: ture
 excerpt_separator: "##"
 ---
