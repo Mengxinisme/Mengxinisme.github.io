@@ -3,7 +3,7 @@ layout: post_layout
 title: Ubuntu-install
 time: 2024年01月15日 星期一
 location: bj
-pulished: ture
+pulished: true
 excerpt_separator: "##"
 ---
 
