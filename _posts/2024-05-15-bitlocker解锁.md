@@ -6,6 +6,8 @@ location: cq
 pulished: ture
 excerpt_separator: "##"
 ---
+##
+</br>
 1. 进入`我的 Microsoft 帐户`
 2. 左侧选中`设备`
 3. 找到被bitlocker锁住的设备
