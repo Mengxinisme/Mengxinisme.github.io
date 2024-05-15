@@ -6,7 +6,7 @@ location: beijing
 pulished: true
 excerpt_separator: "##"
 ---
-##
+## 操作如下
 </br>
 <img src="/assets/img/ssh/setting.png" width="800px" />
 ->设置
