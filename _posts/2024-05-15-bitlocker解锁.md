@@ -3,7 +3,7 @@ layout: post_layout
 title: bitlocker解锁
 time: 2024年05月15日 星期三
 location: cq
-pulished: ture
+pulished: true
 excerpt_separator: "##"
 ---
 ##
